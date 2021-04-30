@@ -100,7 +100,6 @@ next instance of search (within search) - <enter>
 exit search (within search) - <esc>
 
 
-
 # Markdown
 [Markdown syntax source for VS Code](https://www.markdownguide.org/tools/vscode/#vscode-markdown-support)
 
