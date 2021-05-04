@@ -14,6 +14,8 @@ show desktop - Windows + D
 search in start menu - Windows + (type anything)  
 switch between open programs - Alt + Tab  
 focus on program in toolbar - Windows + [1-0] (install 7+ Taskbar Number - https://rammichael.com/7-taskbar-numberer#:~:text=Alt%2BWindows%20logo%20key%20%2Bnumber&text=7%2B%20Taskbar%20Numberer%20adds%20numbers,the%20Windows%20key%20is%20down.)
+add -hidewnd -v2 arguments to the shortcut, and add the shortcut to startup
+
 
 # Chrome
 ## Vimium
