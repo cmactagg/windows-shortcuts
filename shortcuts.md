@@ -18,16 +18,6 @@ add -hidewnd -v2 arguments to the shortcut, and add the shortcut to startup
 
 
 # Chrome
-## Vimium
-To show help - ?  
-To copy text  
-- / (then type search text) <enter> n|N to go to next|previous occurance
-- v to go to visual mode
-- h|l to select additional letters
-- j|k to select additional lines
-- And can use other vim movement keys
-- y to yank (ie copy)
-
 open new window - Ctrl + N  
 open new tab - Ctrl + T  
 open incognito window - Ctrl + Shift + N  
@@ -41,6 +31,29 @@ reload current tab - F5
 cursor to search bar (Tab  to focus back on page) - Ctrl+L  
 Tab next clickable link, or input on page  
 
+## Vimium
+To show help - ?  
+To copy text  
+- / (then type search text) <enter> n|N to go to next|previous occurance
+- v to go to Visual Mode
+- h|l to select additional letters
+- j|k to select additional lines
+- And can use other vim movement keys
+- y to yank (ie copy)  
+With Visual Mode
+- change to cursor - c
+- or back to visual - v
+
+Cursor Movement (basic)
+move left - h
+move right - l
+move up - k
+move down - j
+move right/forward one word - w
+move left/back one word - b
+move right/forward to end of current word - e
+move to start of line - ^
+move to end of line - $
 
 # File Explorer
 focus address bar - Alt + D  
